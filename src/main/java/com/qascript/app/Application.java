@@ -2,7 +2,7 @@ package com.qascript.app;
 
 public class Application {
 
-    private final String message = "Hello World 2!";
+    private final String message = "Hello World!";
 
     public Application() {}
 
