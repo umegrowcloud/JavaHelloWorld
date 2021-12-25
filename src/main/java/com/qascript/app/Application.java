@@ -10,6 +10,7 @@ public class Application {
         System.out.println(new Application().getMessage());
 
     }
+    
     public final String getMessage(){
         return message;
     }
