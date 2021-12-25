@@ -14,5 +14,4 @@ public class Application {
     public final String getMessage(){
         return message;
     }
-
 }
